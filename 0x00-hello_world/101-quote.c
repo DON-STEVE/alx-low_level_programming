@@ -3,7 +3,9 @@
 /**
  * main - Entry point
  *
- * Return Always 0 (Success)
+ * Desciption: A C program that prints a line to the standard error
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
